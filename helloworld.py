@@ -1,1 +1,1 @@
-print("Hi , write a python code")
+print("Hi , write a new python code")
