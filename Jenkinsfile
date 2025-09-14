@@ -10,8 +10,7 @@ pipeline {
         }
     stage('prod') {
             steps {
-                echo 'I am in prod'
-                sh 'docker --version'
+                sh 'helloworld.py
             }
         }
     }
