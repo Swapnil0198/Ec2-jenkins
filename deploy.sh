@@ -6,8 +6,8 @@ sudo yum install -y git docker maven wget
 
 # Git configuration
 git --version
-git config --global user.name "Atul Kamble"
-git config --global user.email "atul_kamble@hotmail.com"
+git config --global user.name "Swapnil Patil"
+git config --global user.email "swapnilpatil0198@gmail.com"
 git config --list
 
 # Start and enable Docker
